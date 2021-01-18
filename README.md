@@ -9,3 +9,6 @@ Interesting "tech" used:
 API Used for the quotes: https://type.fit/api/quotes
 
 Picture!
+
+
+![Screenshot](GoodThoughts.png)
